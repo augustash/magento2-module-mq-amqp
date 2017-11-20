@@ -3,6 +3,10 @@
     "description": "Magento 2 Message Queue OS AMQP Broker Implementation",
     "repositories": [
         {
+            "type": "vcs",
+            "url": "https://github.com/augustash/magento2-module-mq.git"
+        },
+        {
             "type": "composer",
             "url": "https://repo.magento.com/"
         }
@@ -11,7 +15,7 @@
         "php": "~5.6.5|~7.0.0",
         "magento/framework": "101.0.*",
         "magento/module-store": "100.1.*",
-        "renatocason/magento2-module-mq": "~0.1.1",
+        "renatocason/magento2-module-mq": "dev-master",
         "php-amqplib/php-amqplib": "~2.6.3"
     },
     "require-dev": {
