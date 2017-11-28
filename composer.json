@@ -13,9 +13,9 @@
     ],
     "require": {
         "php": "~5.6.5|~7.0.0",
-        "magento/framework": "101.0.*",
-        "magento/module-store": "100.2.*",
-        "renatocason/magento2-module-mq": "dev-master",
+        "magento/framework": "100.1.*",
+        "magento/module-store": "100.1.*",
+        "renatocason/magento2-module-mq": "dev-pr1-area-code-not-set",
         "php-amqplib/php-amqplib": "~2.6.3"
     },
     "require-dev": {
