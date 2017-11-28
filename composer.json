@@ -5,10 +5,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/augustash/magento2-module-mq.git"
-        },
-        {
-            "type": "composer",
-            "url": "https://repo.magento.com/"
         }
     ],
     "require": {
